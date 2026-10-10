@@ -39,3 +39,9 @@ Future Improvements:
 - Develop better manoeuvre recommendations.
 - Add visualisation of debris and potential collision paths.
 - Test and evaluate the system using suitable data.
+
+Expected Outcome :
+-A working prototype demonstrating the connection between sensing, software-based risk assessment, simulated maneuver planning, and physical hardware movement.
+
+Important Note :
+-This is a prototype and simulation. A single camera image cannot determine an unknown object's complete orbit, and the physical model does not perform real orbital maneuvers.
